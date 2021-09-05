@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Test1.md",
+            "file": "School Funding in CA.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test1.md",
+                "file": "School Funding in CA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,15 @@
   },
   "active": "2fabc79706421470",
   "lastOpenFiles": [
-    "Untitled.md"
+    "School Funding in CA.md",
+    "Methodology.md",
+    "Lit Review.md",
+    "Environmental Racism.md",
+    "Declining Infrastructures.md",
+    "children’s developmental years.md",
+    "Brown v Board.md",
+    "Redlined neighborhoods/cities.md",
+    "Untitled.md",
+    "Capstone.md"
   ]
 }
